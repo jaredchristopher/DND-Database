@@ -1,6 +1,6 @@
 # DND-Database
 
-Group: Jared Christopher (jarchri@siue.edu) & Jayme Greer (jmcgree@siue.edu)
+Group: Jared Christopher (jarchri@siue.edu) & Jayme Greer (jaymgre@siue.edu)
 
 Goal: The goal of this project is to create a relational database and populate it with hundreds of thousands of records in multiple different entites.
 This project was done using Visual Studio Code and MySQL in the Terminal.
